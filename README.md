@@ -1,5 +1,5 @@
 # HMM_Digital_Voice_Recognition
-基于HMM与MFCC特征进行数字0-9的语音识别，HMM，GMMHMM，MFCC，语音识别，sklearn，Digital Voice Recognition。
+基于HMM与MFCC特征进行数字0-9的语音识别，HMM，隐马尔可夫，GMMHMM，MFCC，语音识别，sklearn，Digital Voice Recognition。
 
 ## Preinstallation
 ```

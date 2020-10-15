@@ -22,3 +22,7 @@
   
 ```
 
+## Links
+
+[GMM实现](https://github.com/zhengyima/GMM_Digital_Voice_Recognition)
+[DTW实现](https://github.com/zhengyima/DTW_Digital_Voice_Recognition)

@@ -19,7 +19,6 @@
   cd HMM_DVR
   unzip /tmp/dataset.zip -d ./  # dataset.zip是从百度网盘下载的数据
   python hmm_gmm.py
-  
 ```
 
 ## Links
